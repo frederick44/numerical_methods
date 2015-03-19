@@ -1,5 +1,7 @@
+this code was written with matlab 2014. The code uses data from xls file to obtain a cuadratic approximation function to the data. This code also plots the data and the function obtained by least squares.
+
 clear;
-clc;
+clc; 
 clf;
 syms x;
 % minimos cuadrados para funcion cuadratica
